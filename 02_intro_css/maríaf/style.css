@@ -1,0 +1,36 @@
+
+/* selector de etiqueta */
+
+body {
+    background-color: #d18fd1;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+img {
+    /* height: 300px; */
+    width: 300px;
+}
+
+a {
+    color: rgb(10, 45, 77);
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+
+h1{
+    color: rgb(111, 22, 194);
+}
+
+h2{
+    color: rgb(111, 22, 194);}
+
+.logo{
+    width: 50px;
+}

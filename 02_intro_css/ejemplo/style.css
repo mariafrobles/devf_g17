@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(174, 0, 255);
+}
+
+p{
+    color: azure;
+    font-size: 25px;
+}
+
+.rojo {
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+#especial{
+    color: gold;
+    font-weight: lighter;
+    font-size: 35px;
+}
+
+a{
+    color: aqua;
+    text-decoration: none;
+}
