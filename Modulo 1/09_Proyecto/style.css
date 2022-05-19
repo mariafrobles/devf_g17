@@ -1,0 +1,40 @@
+.header{
+    display: grid;
+    grid-template-rows: 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5% 5%;
+    grid-template-columns: 10% 30% 30% 30% ;
+    gap: 10px;
+    padding: 16px;
+
+   
+}
+.logo{
+    grid-area: logo;
+    height: 90%;
+    width: 5%;
+    padding: 16px;
+}
+
+.inicio{
+    grid-area: inicio;
+    height: 90%;
+    width: 10%;
+    padding: 16px;
+    font-size: large;
+}
+
+.hoy{
+    grid-area: hoy;
+    height: 90%;
+    width: 10%;
+    padding: 16px;
+    font-size: large; 
+}
+
+.busqueda{
+    grid-area: nav;
+    height: 90%;
+    width: 55%;
+    padding: 16px;
+    font-size: large; 
+
+}
